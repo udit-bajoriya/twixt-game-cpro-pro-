@@ -1,5 +1,5 @@
 # twixt-game-cpro-pro-
-in this project we will me devloping twixt game in command line interface.
+twixt game in command line interface.
 
 # Two main component of the game logic :  
 1. the first logic is the line_check.In this we have to chech is the line that the player make between two points should not intersect.
