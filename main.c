@@ -19,7 +19,7 @@
                 s.matrix[i][j]=0;
             }
         }
-    // matrix[0][0]=-2;matrix[0][23]=-2;matrix[23][0]=-2;matrix[23][23]=-2;
+    matrix[0][0]=-2;matrix[0][23]=-2;matrix[23][0]=-2;matrix[23][23]=-2;
     print_matrix(&s);
     enum choice cur=player1;
     int i=10;
@@ -31,6 +31,7 @@
     // win();
     change(&cur);
     }
+
 
 
     }
